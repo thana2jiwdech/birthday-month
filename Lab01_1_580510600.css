@@ -1,0 +1,186 @@
+body {
+    background-color: #ecf0f1;
+}
+
+.container {
+    background-color: #ffffff;
+    width: 100%;
+    margin: auto;
+}
+
+.header {
+    color: #c0392b;
+    border: 10px solid #2c3e50;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 5px grey;
+    font-size: 48px;
+}
+
+.HSun {
+    color: black;
+    text-align: center;
+    background-color: red;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+
+.HMon {
+    color: black;
+    text-align: center;
+    background-color: yellow;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+
+.HTue {
+    color: black;
+    text-align: center;
+    background-color: pink;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+
+.HWed {
+    color: black;
+    text-align: center;
+    background-color: green;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+
+.HThu {
+    color: black;
+    text-align: center;
+    background-color: Tomato;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+
+.HFri {
+    color: black;
+    text-align: center;
+    background-color: cyan;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+
+.HSat {
+    color: black;
+    text-align: center;
+    background-color: purple;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+
+.menu-bar {
+    width: 100%;
+}
+
+.Sun {
+    color: blue;
+    text-align: center;
+    background-color: #ff8080;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+
+.Mon {
+    color: blue;
+    text-align: center;
+    background-color: #ffff99;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+.Tue {
+    color: blue;
+    text-align: center;
+    background-color: #ffe6ea;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+.Wed {
+    color: blue;
+    text-align: center;
+    background-color: #80ff80;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+.Thu {
+    color: blue;
+    text-align: center;
+    background-color: #ff9380;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+.Fri {
+    color: blue;
+    text-align: center;
+    background-color: #ccffff;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
+.Sat {
+    color: blue;
+    text-align: center;
+    background-color: #ff80ff;
+    width: 10%;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+    font-size: 36px;
+}
